@@ -1,0 +1,18 @@
+h3{
+    color: red;
+}
+
+body{
+    background-color:#ddffaa;
+    color: blue;
+    font-family: Roboto;
+    text-align: center;
+}
+
+header{
+border-bottom: 2px solid red;
+}
+
+footer{
+border-top: 1px solid brown;
+}
